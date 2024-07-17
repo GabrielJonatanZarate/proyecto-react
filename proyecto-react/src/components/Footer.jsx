@@ -1,20 +1,20 @@
 const Footer = () => {
     return (
-        <div classNameName="container-fluid text-white bg-black py-3">
-            <div classNameName="row">
-                <div classNameName="col">
+        <div className="container-fluid text-white bg-black py-3">
+            <div className="row">
+                <div className="col">
                     <p>© 2023 Southbay S.R.L. Todos los derechos reservados.</p>
                 </div>
-                <div classNameName="col">
+                <div className="col">
                     <ul className="nav justify-content-end">
                         <li className="nav-item">
-                            <a className="nav-link text-black"  href="#">Hot Sale</a>
+                            <a className="nav-link text-white"  href="#">Hot Sale</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link text-black" href="#">Terminos y Condiciones</a>
+                            <a className="nav-link text-white" href="#">Terminos y Condiciones</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link text-black" href="#">Politica de privacidad y cookies</a>
+                            <a className="nav-link text-white" href="#">Politica de privacidad y cookies</a>
                         </li>
                     </ul>
                 </div>
